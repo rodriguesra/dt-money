@@ -17,12 +17,28 @@
       "createdAt": "2022-07-29T19:30:44.505Z"
     },
     {
-        "id": 3,
-        "description": "Aluguel",
-        "type": "outcome",
-        "category": "Moradia",
-        "price": 1000,
-        "createdAt": "2022-07-29T19:30:44.505Z"
+      "id": 3,
+      "description": "Aluguel",
+      "type": "outcome",
+      "category": "Moradia",
+      "price": 1000,
+      "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "description": "Viagem para São Paulo",
+      "price": 470,
+      "category": "Transporte",
+      "type": "outcome",
+      "createdAt": "2024-08-31T23:26:10.685Z",
+      "id": 4
+    },
+    {
+      "description": "Remédio",
+      "price": 28,
+      "category": "Farmácia",
+      "type": "outcome",
+      "createdAt": "2024-08-31T23:46:32.094Z",
+      "id": 5
     }
   ]
 }
